@@ -1,0 +1,62 @@
+{
+  "houses": [
+    {
+      "id": "2",
+      "title": "Studio in Upper East Side",
+      "description": "One room, 24sq foot small studio for rent in Upper East side",
+      "cityId": 2,
+      "img": "https://media.architecturaldigest.com/photos/57c5d026dc03716f7c828999/master/w_1920%2Cc_limit/Upper-East-Side_3.jpg",
+      "price": 6000
+    },
+    {
+      "id": "3",
+      "title": "Bondi Beach view apartament",
+      "description": "Renting apartament in Bondi beach with a spectacular view",
+      "cityId": 3,
+      "img": "https://images.pexels.com/photos/2067125/pexels-photo-2067125.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "price": 1200
+    },
+    {
+      "id": "4",
+      "title": "House for rent in Orange County",
+      "description": "Luxorious house with a yard in Orange County. Has a pool, three bedrooms, two bathrooms, kitchen that extends to the yard. Freshly furnished, designer interior. Peaceful neighbors. There is a garage for two cars also",
+      "cityId": 4,
+      "img": "https://images.pexels.com/photos/3554424/pexels-photo-3554424.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "price": 15000
+    },
+    {
+      "id": "5",
+      "title": "Vila in Cape town",
+      "description": "A surfers, kiteboarders vila on the seaside. Just 2 minutes walk to the beach",
+      "cityId": 5,
+      "img": "https://images.pexels.com/photos/3554424/pexels-photo-3554424.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "price": 630
+    }
+  ],
+  "cities": [
+    {
+      "id": 1,
+      "title": "London"
+    },
+    {
+      "id": 2,
+      "title": "New York"
+    },
+    {
+      "id": 3,
+      "title": "Sydney"
+    },
+    {
+      "id": 4,
+      "title": "Los Angeles"
+    },
+    {
+      "id": 5,
+      "title": "Cape Town"
+    },
+    {
+      "id": 6,
+      "title": "Berlin"
+    }
+  ]
+}

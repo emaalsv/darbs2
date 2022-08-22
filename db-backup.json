@@ -1,0 +1,86 @@
+{
+  "houses": [
+    {
+      "id": "1",
+      "title": "Apartament in London",
+      "description": "Two bedroom apartament in London for rent. 2 kilometers to city center. Renting only long term",
+      "cityId": 1,
+      "img": "https://images.unsplash.com/photo-1523217582562-09d0def993a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+      "price": 1600
+    },
+    {
+      "id": "2",
+      "title": "Studio in Upper East Side",
+      "description": "One room, 24sq foot small studio for rent in Upper East side",
+      "cityId": 2,
+      "img": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+      "price": 6000
+    },
+    {
+      "id": "3",
+      "title": "Bondi Beach view apartament",
+      "description": "Renting apartament in Bondi beach with a spectacular view",
+      "cityId": 3,
+      "img": "https://images.unsplash.com/photo-1480074568708-e7b720bb3f09?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2074&q=80",
+      "price": 1200
+    },
+    {
+      "id": "4",
+      "title": "House for rent in Orange County",
+      "description": "Luxorious house with a yard in Orange County. Has a pool, three bedrooms, two bathrooms, kitchen that extends to the yard. Freshly furnished, designer interior. Peaceful neighbors. There is a garage for two cars also",
+      "cityId": 4,
+      "img": "https://images.unsplash.com/photo-1582063289852-62e3ba2747f8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+      "price": 15000
+    },
+    {
+      "id": "5",
+      "title": "Vila in Cape town",
+      "description": "A surfers, kiteboarders vila on the seaside. Just 2 minutes walk to the beach",
+      "cityId": 5,
+      "img": "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+      "price": 630
+    },
+    {
+      "id": "6",
+      "title": "Flat in Berlin",
+      "description": "Simple one bedroom flat in Berlin. Shared bathroom.",
+      "cityId": 6,
+      "img": "https://images.unsplash.com/photo-1571939228382-b2f2b585ce15?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+      "price": 400
+    },
+    {
+      "id": "1",
+      "title": "Home in London suburbs",
+      "description": "egestas, urna justo faucibus lectus, a sollicitudin orci sem eget massa. Suspendisse eleifend. Cras sed leo. Cras vehicula aliquet libero. Integer in magna.",
+      "cityId": 1,
+      "img": "https://images.unsplash.com/photo-1625602812206-5ec545ca1231?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+      "price": 2200
+    }
+  ],
+  "cities": [
+    {
+      "id": 1,
+      "title": "London"
+    },
+    {
+      "id": 2,
+      "title": "New York"
+    },
+    {
+      "id": 3,
+      "title": "Sydney"
+    },
+    {
+      "id": 4,
+      "title": "Los Angeles"
+    },
+    {
+      "id": 5,
+      "title": "Cape Town"
+    },
+    {
+      "id": 6,
+      "title": "Berlin"
+    }
+  ]
+}
